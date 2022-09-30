@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /****
- * @Author:shenkunlin
+ * @Author:fliay
  * @Description:
- * @Date 2019/6/14 0:18
+ * @Date 
  *****/
 <#if swagger==true>@Api(value = "${Table}Controller")</#if>
 @RestController
